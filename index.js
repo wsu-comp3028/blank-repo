@@ -1,2 +1,2 @@
-// Hello World in French
-console.log("Bonjour le Monde!");
+// Hello World in Spanish
+console.log("Ciao, Mondo!");
