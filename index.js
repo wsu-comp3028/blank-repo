@@ -1,1 +1,2 @@
-console.log("Bonjour le Monde!");
+// Hello World in Germany
+console.log("Hallo, Welt!");
