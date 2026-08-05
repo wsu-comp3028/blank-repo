@@ -16,7 +16,7 @@ function main() {
     greeting();
 }
 
-function greeting() {
+function introduce() {
     console.log("Hello, I am Nam");
 }
 
