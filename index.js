@@ -13,6 +13,11 @@ console.log("Bonjour le Monde!");
 // Factorial function
 function main() {
     console.log(factorial(5));
+    greeting();
+}
+
+function greeting() {
+    console.log("Hello, I am Nam");
 }
 
 function factorial(n) {
