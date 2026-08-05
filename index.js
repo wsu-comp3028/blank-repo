@@ -1,11 +1,19 @@
-// Hello World in Germany
-console.log("Hallo, Welt!");
 
-// Hello World in Spanish
-console.log("Ciao, Mondo!");
+// Factorial function
+function main() {
+    console.log(factorial(5));
+}
 
-// Hello World in English
-console.log("Hello, World!");
+function factorial(n) {
+    if (n < 0) {
+        console.log("Factorial cannot accept negative input!");
+    }
 
-// Hello World in French
-console.log("Bonjour le Monde!");
+    if (n === 0 || n === 1) {
+        return 1;
+    }
+
+    return n * (factorial(n - 1));
+}
+
+main();
