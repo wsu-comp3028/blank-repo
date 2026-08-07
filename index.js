@@ -1,5 +1,3 @@
- HEAD
-console.log('Ciao, Mondo!')
+ console.log('Hallo, Welt!')
+console.log('2 + 2 =', 2 + 2)
 
-console.log('Hallo, Welt!')
- Feature-A
