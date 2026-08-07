@@ -8,4 +8,4 @@ console.log(italianHelloWorld);
 function greet(message){
     console.log(message)
 }
-greet('Hello World');
+greet('Hello Earth');
